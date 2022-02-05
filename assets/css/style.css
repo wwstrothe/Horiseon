@@ -34,7 +34,7 @@ p {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -42,7 +42,7 @@ p {
     font-size: 20px;
 }
 
-.header div li {
+.header nav li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -64,7 +64,7 @@ p {
     margin-left: 20px;
 }
 
-.content div {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -104,7 +104,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefits div {
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
