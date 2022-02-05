@@ -2,6 +2,6 @@
 
 #### Will allow any future feature updates to follow same layout, without any style changes
 
-!{image of the website}(/assets/images/website-image.png)
+![image of the website](/assets/images/website-image.png)
 
 https://wwstrothe.github.io/Horiseon/
